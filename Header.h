@@ -8,6 +8,7 @@ typedef struct gamble
 	int bet;
 }gamble;
 
+///////
 void delay(float seconds);
 void print_str(char *a, float time);
 int spin();
