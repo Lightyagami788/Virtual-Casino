@@ -8,7 +8,7 @@ typedef struct gamble
 	int chip;
 	int bet;
 }gamble;
-
+////
 int rand_int(int a, int b)
 {
 	srand(time(0));
